@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+body {
+  background-color: #020617; /* Pure dark slate-950 background */
+  color: #f8fafc;            /* Clean off-white text contrast */
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+}

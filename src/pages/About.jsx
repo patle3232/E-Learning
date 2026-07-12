@@ -29,7 +29,7 @@ function About() {
           We provide world-class coding education In Maharastra.
         </p>
 
-        {/* Chhote Simple Cards (Bina advanced loop ke, direct coding) */}
+              
         <div className="space-y-7 text-center text-base">
           <div className="bg-black/50 p-5 rounded-full border border-zinc-800">
             📊 <strong className="text-green-400">Performance:</strong> Weekly mock tests and progress tracking.
